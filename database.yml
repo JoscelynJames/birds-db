@@ -1,8 +1,7 @@
 development:
   dialect: postgres
   database: birds_development
-  user: postgres
-  password: postgres
+  user: joscelynjames
   host: 127.0.0.1
   pool: 5
 

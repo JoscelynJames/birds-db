@@ -4,7 +4,7 @@ import (
 	"log"
 
   "github.com/joscelynjames/birds/actions"
-  "github.com/gobuffalo/envy"
+	"github.com/gobuffalo/envy"
 )
 
 func main() {
